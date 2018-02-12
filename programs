@@ -28,30 +28,20 @@
       "hidden": false,
       "sections": [
         {
-          "id": "HOUR",
-          "type": "HOUR",
+          "id": "pod",
+          "type": "pod",
           "title": "L'hora a hora",
           "program": null,
           "active": true,
           "hidden": false,
           "adsId": 21,
           "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-el-mon-a-rac1/id252945946"
-        },
-        {
-          "id": "la-competencia",
-          "type": "la-competencia",
-          "title": "Apunts imprescindibles",
-          "program": null,
-          "active": true,
-          "hidden": false,
-          "adsId": 23,
-          "itunesUrl": "https://itunes.apple.com/es/podcast/mon-rac1-apunts-imprescindibles/id1178570113"
         }
       ],
       "pillAdsId": 14,
       "itunesCategory": "NEWS_POLITICS"
     }
-  ],
+    ],
   "success": true,
   "meta": null
 }
