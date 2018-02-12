@@ -1,0 +1,2675 @@
+{
+  "result": [
+    {
+      "id": "el-mon",
+      "methodeSectionId": "/programes/el-mon",
+      "title": "El món a RAC1",
+      "subtitle": "amb Jordi Basté",
+      "description": "El programa més escoltat de Catalunya. La dotzena temporada de Jordi Basté al capdavant del matinal líder del país.\nUn magazín amb informació, tertúlia i l'opinió d'experts d'elit per tractar tots els temes d'actualitat i aprofundir-hi. \nAmb seccions de cinema, sèries, televisió, educació, tecnologia, internet, música, cuina i molt més. \n",
+      "schedule": "De dilluns a divendres, de 6 a 12 h",
+      "socialNetworks": {
+        "facebook": "https://ca-es.facebook.com/elmonarac1/",
+        "twitter": "https://twitter.com/elmonarac1?lang=ca",
+        "instagram": "https://www.instagram.com/elmonarac1/"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/el-mon.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/el-mon.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/el-mon.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/el-mon.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/el-mon.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/el-mon.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/el-mon.jpg"
+      },
+      "imageVersion": 1,
+      "email": "elmon@rac1.net",
+      "url": "http://www.rac1.cat/elmon/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 21,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-el-mon-a-rac1/id252945946"
+        },
+        {
+          "id": "apunts-imprescindibles",
+          "type": "SECTION",
+          "title": "Apunts imprescindibles",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 23,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/mon-rac1-apunts-imprescindibles/id1178570113"
+        },
+        {
+          "id": "bits",
+          "type": "SECTION",
+          "title": "Bits",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 344,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/el-mon-a-rac1-bits/id1178571080"
+        },
+        {
+          "id": "cronica-negra",
+          "type": "SECTION",
+          "title": "Crònica negra",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 24,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/el-mon-a-rac1-cronica-negra/id1178573719"
+        },
+        {
+          "id": "dialing",
+          "type": "SECTION",
+          "title": "Dialing",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 26,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/el-mon-a-rac1-dialing/id1178659124"
+        },
+        {
+          "id": "c25b8996-4eb4-4c74-9c76-cfe844afb40c",
+          "type": "SECTION",
+          "title": "Economia domèstica",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 348,
+          "itunesUrl": ""
+        },
+        {
+          "id": "el-consultori",
+          "type": "SECTION",
+          "title": "El consultori",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 29,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-mon-rac1-consultori/id565037647"
+        },
+        {
+          "id": "el-davantal",
+          "type": "SECTION",
+          "title": "El davantal",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 31,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/el-mon-a-rac1-el-davantal/id1169425248"
+        },
+        {
+          "id": "el-perque-de-tot-plegat",
+          "type": "SECTION",
+          "title": "El perquè de tot plegat",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 34,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-el-mon-a-rac1/id358373841"
+        },
+        {
+          "id": "el-tuit-de-la-tertulia",
+          "type": "SECTION",
+          "title": "Nacho de Sanahuja",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 345,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/mon-rac1-tuit-la-tertulia/id1179350274"
+        },
+        {
+          "id": "ens-fotran-fora",
+          "type": "SECTION",
+          "title": "Ens fotran fora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 36,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/el-mon-a-rac1-ens-fotran-fora/id1179350276"
+        },
+        {
+          "id": "entrevista",
+          "type": "SECTION",
+          "title": "Entrevista",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 37,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/el-mon-a-rac1-entrevista/id1179350289"
+        },
+        {
+          "id": "pilota-a-lolla",
+          "type": "SECTION",
+          "title": "Pilota a l'olla",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "infocarca",
+          "type": "SECTION",
+          "title": "Infocarca",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "televisio-i-cinema",
+          "type": "SECTION",
+          "title": "Televisió i cinema",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 52,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-el-mon-a-rac1/id358374512"
+        },
+        {
+          "id": "lectura-de-la-premsa-en-diagonal",
+          "type": "SECTION",
+          "title": "Lectura de la premsa en diagonal",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 63,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/lectura-la-premsa-en-diagonal/id700584032"
+        },
+        {
+          "id": "ull-de-poll",
+          "type": "SECTION",
+          "title": "L'ull de poll",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 43,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/el-mon-a-rac1-lull-de-poll/id1179352146"
+        },
+        {
+          "id": "les-series",
+          "type": "SECTION",
+          "title": "Les sèries",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 51,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-mon-rac1-les/id732023860"
+        },
+        {
+          "id": "musica",
+          "type": "SECTION",
+          "title": "Música",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 383,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-el-mon-a-rac1/id252945946"
+        },
+        {
+          "id": "tertulia-esportiva",
+          "type": "SECTION",
+          "title": "Tertúlia esportiva",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 53,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-el-mon-a-rac1/id358374599"
+        },
+        {
+          "id": "evole-i-la-radio",
+          "type": "SECTION",
+          "title": "Évole i la ràdio",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-microrelat",
+          "type": "SECTION",
+          "title": "El microrelat",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "NEWS_POLITICS"
+    },
+    {
+      "id": "la-competencia",
+      "methodeSectionId": "/programes/la-competencia",
+      "title": "La competència",
+      "subtitle": "amb els Òscars",
+      "description": "Programa d'humor basat en fets reals. \nPersonatges de creació pròpia analitzen, per 9a temporada, l’actualitat amb el rigor i la seriositat que els caracteritzen. És a dir, cap. Tenen el compromís de riure’s del màxim nombre de col•lectius i territoris. Escolta’ls: demà et pot tocar a tu.\nAmb Òscar Andreu, Òscar Dalmau, Oriol de Balanzó, Natza Farré, Tomàs Fuentes i Víctor Ollé.\n",
+      "schedule": "De dilluns a divendres, de 12 a 13 h",
+      "socialNetworks": {
+        "twitter": "http://www.twitter.com/lacompetencia",
+        "facebook": "http://www.facebook.com/lacompetencia"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/la-competencia.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/la-competencia.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/la-competencia.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/la-competencia.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/la-competencia.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/la-competencia.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/la-competencia.jpg"
+      },
+      "imageVersion": 1,
+      "email": null,
+      "url": "http://www.rac1.org/lacompetencia/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 55,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-competencia/id330984064"
+        },
+        {
+          "id": "actualitat-en-1-minut",
+          "type": "SECTION",
+          "title": "Actualitat en 1 minut",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 56,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-competencia/id444919333"
+        },
+        {
+          "id": "el-greatest-hit",
+          "type": "SECTION",
+          "title": "El Greatest Hit",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 60,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-competencia/id444919342"
+        },
+        {
+          "id": "entrada",
+          "type": "SECTION",
+          "title": "Entrada",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 309,
+          "itunesUrl": null
+        },
+        {
+          "id": "no-se-nha-parlat-prau",
+          "type": "SECTION",
+          "title": "No se n'ha parlat PRAU",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "mha-agradat-no-mha-agradat",
+          "type": "SECTION",
+          "title": "M'ha agradat, no m'ha agradat",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "GENERIC",
+          "type": "GENERIC",
+          "title": "Genèrica",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "COMEDY"
+    },
+    {
+      "id": "la-segona-hora",
+      "methodeSectionId": "/programes/la-segona-hora",
+      "title": "La segona hora",
+      "subtitle": "amb Quim Morales",
+      "description": "Programa d’humor transgressor amb un equip d'investigació que fa riure: Quim Morales, Xavier Pérez Esquerdo, Ana Polo, Cèlia Roure i Víctor Ollé. ",
+      "schedule": "De dilluns a divendres, de 13 a 14  h",
+      "socialNetworks": {
+        "facebook": "http://www.facebook.com/lasegonahora",
+        "twitter": "http://www.twitter.com/lasegonahora",
+        "instagram": "http://www.instagram.com/lasegonahora"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/la-segona-hora.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/la-segona-hora.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/la-segona-hora.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/la-segona-hora.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/la-segona-hora.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/la-segona-hora.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/la-segona-hora.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.org/lasegonahora/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 64,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-segona-hora/id292508568"
+        },
+        {
+          "id": "almohadilla",
+          "type": "SECTION",
+          "title": "Almohadilla",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 323,
+          "itunesUrl": null
+        },
+        {
+          "id": "consultori-musical",
+          "type": "SECTION",
+          "title": "Consultori musical",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-millor-dia-de-la-setmna",
+          "type": "SECTION",
+          "title": "El millor dia de la setmana",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "estudi-d-audiencia",
+          "type": "SECTION",
+          "title": "Estudi d’audiència",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 75,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-segona-hora/id444923526"
+        },
+        {
+          "id": "fan-fatal",
+          "type": "SECTION",
+          "title": "Fan fatal",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "informe-ramoneda",
+          "type": "SECTION",
+          "title": "Informe Ramoneda",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "juguem-pelicules",
+          "type": "SECTION",
+          "title": "Juguem a les pel·lícules",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "hitofonies",
+          "type": "SECTION",
+          "title": "Hitofonies de la setmana",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "la-veu-del-poble",
+          "type": "SECTION",
+          "title": "La veu del poble",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 90,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-segona-hora/id444923579"
+        },
+        {
+          "id": "llauna-de-converses",
+          "type": "SECTION",
+          "title": "Llauna de converses",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "migdiana",
+          "type": "SECTION",
+          "title": "Migdiana",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "la-botiga-dels-errors",
+          "type": "SECTION",
+          "title": "Paperera de reciclatge",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "pro-evolution-fornos",
+          "type": "SECTION",
+          "title": "Pro evolution Fornós",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "psicofonies",
+          "type": "SECTION",
+          "title": "Psicofonies",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "de-que-hablas-teresa",
+          "type": "SECTION",
+          "title": "De qué hablas Teresa?",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "treball-de-camp",
+          "type": "SECTION",
+          "title": "Treball de camp",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 98,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-segona-hora/id444924353"
+        },
+        {
+          "id": "testimoni-protegit",
+          "type": "SECTION",
+          "title": "Testimoni protegit",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "sindic-de-greuges",
+          "type": "SECTION",
+          "title": "Síndic de greuges",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 350,
+          "itunesUrl": null
+        },
+        {
+          "id": "societat-ananima",
+          "type": "SECTION",
+          "title": "Societat Anànima",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "COMEDY"
+    },
+    {
+      "id": "14-15",
+      "methodeSectionId": "/programes/14-15",
+      "title": "14/15",
+      "subtitle": "amb Mònica Fulquet",
+      "description": "Les notícies del dia explicades en només 15 minuts. Amb l’equip d’@inforac1. ",
+      "schedule": "De dilluns a divendres, de 14 a 14.15 h",
+      "socialNetworks": {
+        "twitter": "http://www.twitter.com/inforac1"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/14-15.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/14-15.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/14-15.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/14-15.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/14-15.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/14-15.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/14-15.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.cat/programes/1415/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-14-15/id444935891"
+        },
+        {
+          "id": "4b3e6f2c-0156-4c00-b728-09d72b905aef",
+          "type": "SECTION",
+          "title": "A l'última",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "NEWS_POLITICS"
+    },
+    {
+      "id": "primer-toc",
+      "methodeSectionId": "/programes/primer-toc",
+      "title": "Primer toc",
+      "subtitle": "amb Raül Llimós",
+      "description": "Informació esportiva a l’hora de dinar. \nOpinió, entrevistes i reportatges de tot el que passa al món de l'esport i, sobretot, del Barça. \n",
+      "schedule": "De dilluns a diumenge, de 14.15 a 15 h",
+      "socialNetworks": {
+        "twitter": "https://www.twitter.com/esportsrac1"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/primer-toc.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/primer-toc.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/primer-toc.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/primer-toc.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/primer-toc.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/primer-toc.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/primer-toc.jpg"
+      },
+      "imageVersion": 2,
+      "email": "primertoc@rac1.net",
+      "url": "http://www.rac1.org/programes/primer-toc/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/primer-toc-programa-sencer/id1275453760?mt=2"
+        },
+        {
+          "id": "el-masover-oriol-domenech",
+          "type": "SECTION",
+          "title": "El masover Oriol Doménech",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "la-jornada-poliedrica",
+          "type": "SECTION",
+          "title": "La jornada polièdrica",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "menu-cap-de-setmana",
+          "type": "SECTION",
+          "title": "Menú de cap de setmana",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "mina-terra-galega",
+          "type": "SECTION",
+          "title": "Miña Terra Galega",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "mr-rico",
+          "type": "SECTION",
+          "title": "Mr Rico",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "la-portada",
+          "type": "SECTION",
+          "title": "La portada",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/primer-toc-programa-sencer/id1275453760?mt=2"
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SPORTS_RECREATION"
+    },
+    {
+      "id": "tot-es-possible",
+      "methodeSectionId": "/programes/tot-es-possible",
+      "title": "Tot és possible",
+      "subtitle": "amb Elisenda Camps",
+      "description": "El programa de servei de RAC1. Recullen preguntes i consultes dels oients per trobar-los resposta. Aprenen sobre benestar, plantes i jardineria, lleis, animals de companyia, nutrició, cuina i molt més. ",
+      "schedule": "De dilluns a divendres, de 15 a 16 h",
+      "socialNetworks": {
+        "twitter": "http://www.twitter.com/teprac1",
+        "facebook": "https://www.facebook.com/totespossible/"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/tot-es-possible.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/tot-es-possible.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/tot-es-possible.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/tot-es-possible.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/tot-es-possible.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/tot-es-possible.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/tot-es-possible.jpg"
+      },
+      "imageVersion": 1,
+      "email": null,
+      "url": "http://www.rac1.cat/totespossible/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 101,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-tot-es-possible/id431084239"
+        },
+        {
+          "id": "consultori-legal",
+          "type": "SECTION",
+          "title": "Consultori legal",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 102,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-tot-es-possible/id444935843"
+        },
+        {
+          "id": "consum",
+          "type": "SECTION",
+          "title": "Consum",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 341,
+          "itunesUrl": null
+        },
+        {
+          "id": "f6efe6b9-fc4a-48e6-89ce-0d0961ae5925",
+          "type": "SECTION",
+          "title": "Cuina amb Mireia Carbó",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 353,
+          "itunesUrl": null
+        },
+        {
+          "id": "sigues-tu-el-canvi",
+          "type": "SECTION",
+          "title": "Sigues tu el canvi",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-fisio-a-casa",
+          "type": "SECTION",
+          "title": "El fisio a casa",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 103,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-tot-es-possible/id469930920"
+        },
+        {
+          "id": "emprenedors",
+          "type": "SECTION",
+          "title": "Emprenedors",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 255,
+          "itunesUrl": null
+        },
+        {
+          "id": "gastronutricio",
+          "type": "SECTION",
+          "title": "Gastronutrició",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 105,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-tot-es-possible/id703542176"
+        },
+        {
+          "id": "jardineria",
+          "type": "SECTION",
+          "title": "Jardineria",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 106,
+          "itunesUrl": "http://itunes.apple.com/es/podcast/rac1-podcast-tot-es-possible/id444935086"
+        },
+        {
+          "id": "mascotes",
+          "type": "SECTION",
+          "title": "Mascotes",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 108,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-tot-es-possible/id444935812"
+        },
+        {
+          "id": "tema-del-dia",
+          "type": "SECTION",
+          "title": "Tema del dia",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 112,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-tot-es-possible/id444935059"
+        },
+        {
+          "id": "07ecb6e4-ca2d-4d1e-948a-a4c6d0ad3ffa",
+          "type": "SECTION",
+          "title": "Fets i persones",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 352,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SOCIETY_CULTURE"
+    },
+    {
+      "id": "versio",
+      "methodeSectionId": "/programes/versio",
+      "title": "Versió RAC1",
+      "subtitle": "amb Toni Clapés",
+      "description": "El programa de la tarda líder d'audiència a Catalunya. Barregen a parts iguals entreteniment, actualitat, humor i informació. Això no treu que, en algunes ocasions, la barreja final sigui a parts iguals: bogeria, antiguitats rònegues, mal humor i estupefacció. \nTot depèn del dia que tinguin Toni Clapés i companyia, que un any més, i ja n’és el tretzè a RAC1, ofereixen un espectacle radiofònic cada tarda. ",
+      "schedule": "De dilluns a divendres, de 16 a 19 h",
+      "socialNetworks": {
+        "facebook": "http://www.facebook.com/versiorac1",
+        "twitter": "http://www.twitter.com/versiorac1",
+        "instagram": "https://www.instagram.com/versiorac1/"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/versio.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/versio.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/versio.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/versio.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/versio.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/versio.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/versio.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.cat/versio/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 113,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1/id292508569"
+        },
+        {
+          "id": "ciencia",
+          "type": "SECTION",
+          "title": "Ciència",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 121,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-ciencia/id444939822"
+        },
+        {
+          "id": "coses-meves",
+          "type": "SECTION",
+          "title": "Coses meves",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 120,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-coses/id474430569"
+        },
+        {
+          "id": "coses-del-marc-serra",
+          "type": "SECTION",
+          "title": "Coses del Marc Serra",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 356,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/versio-rac1-coses-del-marc/id1182883147?mt=2"
+        },
+        {
+          "id": "virals-amb-pau-torres",
+          "type": "SECTION",
+          "title": "Virals amb Pau Torres",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1/id292508569"
+        },
+        {
+          "id": "cuina-amb-ada-parellada",
+          "type": "SECTION",
+          "title": "Cuina amb Ada Parellada",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 354,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1/id292508569"
+        },
+        {
+          "id": "economia",
+          "type": "SECTION",
+          "title": "Economia",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 262,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-economia/id444939306"
+        },
+        {
+          "id": "encantats-amb-ramon-gener",
+          "type": "SECTION",
+          "title": "Encantats amb Ramon Gener",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 126,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-encantats/id700584341"
+        },
+        {
+          "id": "televisio",
+          "type": "SECTION",
+          "title": "Televisió",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 139,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-televisio/id444939302"
+        },
+        {
+          "id": "impactes-del-dia",
+          "type": "SECTION",
+          "title": "Impactes del dia",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 327,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/versio-rac1-impactes-del-dia/id1053962042"
+        },
+        {
+          "id": "informe-peyu",
+          "type": "SECTION",
+          "title": "Informe Peyu",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 330,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-informe/id918411629"
+        },
+        {
+          "id": "entrevista",
+          "type": "SECTION",
+          "title": "Entrevista",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 263,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-entrevista/id444939513"
+        },
+        {
+          "id": "sr-bohigues-bar-de-baix",
+          "type": "SECTION",
+          "title": "Sr Bohigues Bar de baix",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 340,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-sr/id950713182"
+        },
+        {
+          "id": "sergi-pamies",
+          "type": "SECTION",
+          "title": "Sergi Pàmies",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 137,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-sergi/id469933140"
+        },
+        {
+          "id": "lluis-permanyer",
+          "type": "SECTION",
+          "title": "Lluís Permanyer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/versi%C3%B3-rac1-llu%C3%ADs-permanyer/id1301422930?mt=2"
+        },
+        {
+          "id": "margarita-puig",
+          "type": "SECTION",
+          "title": "Margarita Puig",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 329,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/versio-rac1-margarita-puig/id1076337794"
+        },
+        {
+          "id": "gag-del-dia",
+          "type": "SECTION",
+          "title": "Gag del dia",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 395,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1/id292508569"
+        },
+        {
+          "id": "successos-toni-munoz",
+          "type": "SECTION",
+          "title": "Successos amb Toni Muñoz",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/versi%C3%B3-rac1-successos-amb-toni-mu%C3%B1oz/id1301422912?mt=2"
+        },
+        {
+          "id": "esports-amb-albert-bassas",
+          "type": "SECTION",
+          "title": "Esports amb Albert Bassas",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 277,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-esports/id918412789"
+        },
+        {
+          "id": "ernesto-ekaizer",
+          "type": "SECTION",
+          "title": "Ernesto Ekaizer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 127,
+          "itunesUrl": "https://itunes.apple.com/us/podcast/versi%C3%B3-rac1-ernesto-ekaizer/id1327266266?l=es"
+        },
+        {
+          "id": "politica-amb-jm-marti",
+          "type": "SECTION",
+          "title": "Política ",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 278,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-versio-rac1-politica/id918413322"
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "NEWS_POLITICS"
+    },
+    {
+      "id": "islandia",
+      "methodeSectionId": "/programes/islandia",
+      "title": "Islàndia",
+      "subtitle": "amb Albert Om",
+      "description": "La ràdio càlida. Un programa que acompanya els oients tots els vespres. Efemèrides, cançons dedicades, xifres curioses, diferents maneres de fer. En resum, una estona en què l'Albert Om ens explica coses",
+      "schedule": "De dilluns a divendres, de 19 a 20.30 h",
+      "socialNetworks": {
+        "twitter": "https://twitter.com/islandiarac1",
+        "instagram": "https://www.instagram.com/islandiarac1",
+        "facebook": "https://www.facebook.com/islandiarac1"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/islandia.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/islandia.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/islandia.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/islandia.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/islandia.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/islandia.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/islandia.jpg"
+      },
+      "imageVersion": 2,
+      "email": "islandia@rac1.net",
+      "url": null,
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 357,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/islandia-programa-sencer/id1179049594"
+        },
+        {
+          "id": "perit-accidents",
+          "type": "SECTION",
+          "title": "El pèrit d'accidents radiofònics",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-el-p%C3%A8rit-daccidents-radiof%C3%B2nics/id1287118766?mt=2"
+        },
+        {
+          "id": "cinema-amb-marta-ramon",
+          "type": "SECTION",
+          "title": "Cinema amb Marta Ramon",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "homes-objecte",
+          "type": "SECTION",
+          "title": "Homes objecte amb Pou i Carabén",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-homes-objecte-amb-pou-i-carab%C3%A9n/id1287113973?mt=2"
+        },
+        {
+          "id": "xavi-bosch",
+          "type": "SECTION",
+          "title": "Xavi Bosch",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-xavi-bosch/id1287114446?mt=2"
+        },
+        {
+          "id": "sergi-pamies",
+          "type": "SECTION",
+          "title": "Sergi Pàmies",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 382,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-sergi-p%C3%A0mies/id1287114930?mt=2"
+        },
+        {
+          "id": "histories-d-un-divorciat",
+          "type": "SECTION",
+          "title": "Històries d'un divorciat",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 360,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-hist%C3%B2ries-dun-divorciat/id1287121639?mt=2"
+        },
+        {
+          "id": "germans-de-reykjavik",
+          "type": "GENERIC",
+          "title": "Germans de Reykjavík",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "neuroleg-de-carrer",
+          "type": "SECTION",
+          "title": "Neuròleg de carrer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-neur%C3%B2leg-de-carrer/id1287118778?mt=2"
+        },
+        {
+          "id": "les-dottir",
+          "type": "SECTION",
+          "title": "Les Dóttir",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-les-d%C3%B3ttir/id1287117228?mt=2"
+        },
+        {
+          "id": "final-felic-guitart",
+          "type": "SECTION",
+          "title": "Final feliç amb Anna Guitart",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-final-feli%C3%A7-amb-anna-guitart/id1287117483?mt=2"
+        },
+        {
+          "id": "lletra-i-musica",
+          "type": "SECTION",
+          "title": "Lletra i música amb Jordi Sellas",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-lletra-i-m%C3%BAsica-amb-jordi-sellas/id1287117488?mt=2"
+        },
+        {
+          "id": "histories-hora-sopar",
+          "type": "GENERIC",
+          "title": "Històries per explicar a l'hora de sopar",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "podeu-saludar",
+          "type": "SECTION",
+          "title": "Podeu saludar",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 362,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/isl%C3%A0ndia-podeu-saludar/id1287120552?mt=2"
+        }
+      ],
+      "pillAdsId": null,
+      "itunesCategory": "SOCIETY_CULTURE"
+    },
+    {
+      "id": "no-ho-se",
+      "methodeSectionId": "/programes/no-ho-se",
+      "title": "No ho sé",
+      "subtitle": "amb Agnès Marquès",
+      "description": "No ho saben. I per això cada dia comparteixen dues hores de ràdio amb gent que en sap. Que en sap molt i que s’explica bé.  \nNotícies, reportatges, converses, debats, tertúlies i entrevistes per explicar què passa i per entendre millor per què i com passa. Preguntes, dubtes i reflexions per intentar saber-ne una mica més. Volen enraonar sense presses. Volen tenir temps per escoltar els qui en saben. ",
+      "schedule": "de dilluns a divendres de 20.30 a 22.30 h",
+      "socialNetworks": {
+        "facebook": "https://www.facebook.com/nohoserac1",
+        "twitter": "https://www.twitter.com/nohoserac1"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/no-ho-se.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/no-ho-se.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/no-ho-se.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/no-ho-se.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/no-ho-se.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/no-ho-se.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/no-ho-se.jpg"
+      },
+      "imageVersion": 2,
+      "email": "nohose@rac1.net",
+      "url": "http://www.rac1.org/programes/no-ho-se/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 337,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-no-ho-se/id1036109866"
+        },
+        {
+          "id": "bonus-track",
+          "type": "SECTION",
+          "title": "Bonus track",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-bonus-track/id1327326215?mt=2"
+        },
+        {
+          "id": "culinarium",
+          "type": "SECTION",
+          "title": "Culinàrium",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": ""
+        },
+        {
+          "id": "culturetes",
+          "type": "SECTION",
+          "title": "Culturetes",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-culturetes/id1327332293?mt=2"
+        },
+        {
+          "id": "el-canalla",
+          "type": "SECTION",
+          "title": "El canalla",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-el-canalla/id1327326834?mt=2"
+        },
+        {
+          "id": "els-artistes",
+          "type": "SECTION",
+          "title": "Els artistes",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-els-artistes/id1327328599?mt=2"
+        },
+        {
+          "id": "l-impertinent",
+          "type": "SECTION",
+          "title": "L'impertinent",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 366,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-limpertinent/id1327334806?mt=2"
+        },
+        {
+          "id": "la-portada",
+          "type": "SECTION",
+          "title": "La portada de l'Agnès",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-la-portada-de-lagn%C3%A8s/id1327329562?mt=2"
+        },
+        {
+          "id": "no-s-ha-parlat-prou-be",
+          "type": "SECTION",
+          "title": "No s'ha parlat prou de",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 368,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-no-sha-parlat-prou-de/id1327329800?mt=2"
+        },
+        {
+          "id": "sabies-que",
+          "type": "SECTION",
+          "title": "Sabies què?",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-sabies-qu%C3%A8/id1327332533?mt=2"
+        },
+        {
+          "id": "sons-del-mon",
+          "type": "SECTION",
+          "title": "Sons del món",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-sons-del-m%C3%B3n/id1327332545?mt=2"
+        },
+        {
+          "id": "tirant-a-negre",
+          "type": "SECTION",
+          "title": "Tirant a negre",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-ho-s%C3%A9-tirant-a-negre/id1327331293?mt=2"
+        },
+        {
+          "id": "cita-a-cegues",
+          "type": "SECTION",
+          "title": "Cita a cegues",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "NEWS_POLITICS"
+    },
+    {
+      "id": "tu-diras",
+      "methodeSectionId": "/programes/tu-diras",
+      "title": "Tu diràs",
+      "subtitle": "amb Roger Saperas",
+      "description": "El programa líder de la nit radiofònica catalana analitza el Barça i les competicions esportives en profunditat amb el millor equip d’especialistes, amb debats i tertúlies cada nit. ",
+      "schedule": "de dilluns a divendres de 22.30 a 1 h, dissabtes i diumenges de 23 a 1h",
+      "socialNetworks": {
+        "facebook": "https://www.facebook.com/tudirasrac1",
+        "twitter": "https://www.twitter.com/esportsrac1"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/tu-diras.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/tu-diras.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/tu-diras.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/tu-diras.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/tu-diras.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/tu-diras.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/tu-diras.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.org/programes/tu-diras/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 225,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/tu-diras-lhora-a-hora/id1181342815?mt=2"
+        },
+        {
+          "id": "0a8f4074-cbd7-4442-9162-8d1ff6394917",
+          "type": "SECTION",
+          "title": "Antitertúlia",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 398,
+          "itunesUrl": null
+        },
+        {
+          "id": "basquet-en-vena",
+          "type": "SECTION",
+          "title": "Bàsquet en vena",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "business",
+          "type": "SECTION",
+          "title": "Business",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 409,
+          "itunesUrl": null
+        },
+        {
+          "id": "cacadors-semantics",
+          "type": "SECTION",
+          "title": "Caçadors semàntics",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 402,
+          "itunesUrl": null
+        },
+        {
+          "id": "consultori-perarnau",
+          "type": "SECTION",
+          "title": "Consultori Perarnau",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "damintage",
+          "type": "SECTION",
+          "title": "Damintage",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 403,
+          "itunesUrl": null
+        },
+        {
+          "id": "6bba7cbb-102e-4021-b037-facf20959ed1",
+          "type": "SECTION",
+          "title": "Doc-doc",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 399,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-desintoxicat",
+          "type": "SECTION",
+          "title": "El desintoxicat",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-masover-jaume-marcet",
+          "type": "SECTION",
+          "title": "El masover Jaume Marcet",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 404,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-mon-de-baste",
+          "type": "SECTION",
+          "title": "El món de Basté",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 405,
+          "itunesUrl": null
+        },
+        {
+          "id": "entrevistes",
+          "type": "SECTION",
+          "title": "Entrevistes",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "furbolint",
+          "type": "SECTION",
+          "title": "Futbolint",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 406,
+          "itunesUrl": null
+        },
+        {
+          "id": "editorial-del-sape",
+          "type": "SECTION",
+          "title": "L'editorial del Tu diràs",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "la-versio-de-clapes",
+          "type": "SECTION",
+          "title": "La versió de Clapés",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 407,
+          "itunesUrl": null
+        },
+        {
+          "id": "la-repeticio-del-partit",
+          "type": "SECTION",
+          "title": "La repetició del partit",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 408,
+          "itunesUrl": null
+        },
+        {
+          "id": "f4b0e2c8-a03f-4ac1-a2d1-9bd715c470aa",
+          "type": "SECTION",
+          "title": "Madchester",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 400,
+          "itunesUrl": null
+        },
+        {
+          "id": "repuigtatge",
+          "type": "SECTION",
+          "title": "Repuigtatge",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "youtubediras",
+          "type": "SECTION",
+          "title": "Youtubediràs",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SPORTS_RECREATION"
+    },
+    {
+      "id": "la-primera-pedra",
+      "methodeSectionId": "/programes/la-primera-pedra",
+      "title": "La primera pedra",
+      "subtitle": "amb Noemi Polls",
+      "description": "Cada cap de setmana, la Noemí Polls i un grapat de col•laboradors ens desperten amb un somriure. \nEscoltem música, descobrim rutes per fer amb bicicleta, fem curses de muntanya, recomanem sèries i pel•lícules, assaborim vins i caves, ens endinsem en la ment humana, fem el gos amb els gossos i els seus humans, cantem cançons marineres i molt més... amb un somriure de bon matí.    \n",
+      "schedule": "Dissabtes i diumenges, de 7 a 7 h",
+      "socialNetworks": {
+        "twitter": "https://twitter.com/primerapedra"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/la-primera-pedra.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/la-primera-pedra.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/la-primera-pedra.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/la-primera-pedra.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/la-primera-pedra.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/la-primera-pedra.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/la-primera-pedra.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.org/laprimerapedra/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 141,
+          "itunesUrl": null
+        },
+        {
+          "id": "les-6-i-3",
+          "type": "SECTION",
+          "title": "Les 6 i 3",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "cuina-amb-ritme",
+          "type": "SECTION",
+          "title": "Cuina amb ritme",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "fem-muntanya",
+          "type": "SECTION",
+          "title": "Fem muntanya",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "series-de-tv",
+          "type": "SECTION",
+          "title": "Sèries de TV",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-cinema",
+          "type": "SECTION",
+          "title": "El cinema",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "entrevista",
+          "type": "SECTION",
+          "title": "L'entrevista",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 150,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-primera-pedra/id703542430"
+        },
+        {
+          "id": "ja-surt-el-sol",
+          "type": "SECTION",
+          "title": "Ja surt el sol",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 152,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-la-primera-pedra/id565075195"
+        },
+        {
+          "id": "corre-amb-rac1",
+          "type": "SECTION",
+          "title": "Corre amb RAC1",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "parlem-de-ciclisme",
+          "type": "SECTION",
+          "title": "Parlem de ciclisme",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "psicologia",
+          "type": "SECTION",
+          "title": "Psicologia",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "agafem-un-llibre",
+          "type": "SECTION",
+          "title": "Agafem un llibre?",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "fem-el-gos",
+          "type": "SECTION",
+          "title": "Fem el gos",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "treu-la-llengua",
+          "type": "SECTION",
+          "title": "Treu la llengua",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SOCIETY_CULTURE"
+    },
+    {
+      "id": "via-lliure",
+      "methodeSectionId": "/programes/via-lliure",
+      "title": "Via lliure",
+      "subtitle": "amb Xavi Bundó",
+      "description": "Tenim un ull posat en tot el que passa. Set hores que donen cobertura a la informació, opinió, personatges interessants, música, cinema, sèries, educació, cuina i humor. La fórmula completa per gaudir dels caps de setmana.",
+      "schedule": "Dissabtes i diumenges, de 7 a 14 h",
+      "socialNetworks": {
+        "twitter": "https://twitter.com/vialliure",
+        "facebook": "https://www.facebook.com/vialliure"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/via-lliure.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/via-lliure.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/via-lliure.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/via-lliure.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/via-lliure.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/via-lliure.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/via-lliure.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.cat/vialliure/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 163,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-via-lliure/id395147618"
+        },
+        {
+          "id": "3a9d8381-80d1-4be9-bc64-9f24be8594cf",
+          "type": "SECTION",
+          "title": "Blogs vivants",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 371,
+          "itunesUrl": null
+        },
+        {
+          "id": "carbo-i-puigbert",
+          "type": "SECTION",
+          "title": "Carbó i Puigbert",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 372,
+          "itunesUrl": ""
+        },
+        {
+          "id": "conversa",
+          "type": "SECTION",
+          "title": "Conversa",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 334,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/via-lliure-conversa/id1042213063?mt=2"
+        },
+        {
+          "id": "d-aqui-10-anys",
+          "type": "SECTION",
+          "title": "D'aquí 10 anys",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 373,
+          "itunesUrl": ""
+        },
+        {
+          "id": "descobertes",
+          "type": "SECTION",
+          "title": "Descobertes",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-basar-de-les-sorpreses",
+          "type": "SECTION",
+          "title": "El basar de les sorpreses",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 374,
+          "itunesUrl": ""
+        },
+        {
+          "id": "economia-domestica",
+          "type": "SECTION",
+          "title": "Economia domèstica",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-vermut",
+          "type": "SECTION",
+          "title": "El vermut",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 375,
+          "itunesUrl": ""
+        },
+        {
+          "id": "grans-preguntes",
+          "type": "SECTION",
+          "title": "Grans preguntes",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 377,
+          "itunesUrl": ""
+        },
+        {
+          "id": "illustres-execrables",
+          "type": "SECTION",
+          "title": "Il·lustres execrables",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 335,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/via-lliure-illustres-execrables/id1042213334"
+        },
+        {
+          "id": "honorables-catalans",
+          "type": "SECTION",
+          "title": "Honorables catalans",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 191,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-via-lliure-honorables/id703542195"
+        },
+        {
+          "id": "entrevista",
+          "type": "SECTION",
+          "title": "Entrevista",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 286,
+          "itunesUrl": null
+        },
+        {
+          "id": "entrevista-actualitat",
+          "type": "SECTION",
+          "title": "Entrevista d'actualitat",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 332,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/via-lliure-entrevista-d-actualitat/id1042213041"
+        },
+        {
+          "id": "la-mare-dels-tritons",
+          "type": "SECTION",
+          "title": "La mare dels tritons",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "la-tirallonga",
+          "type": "SECTION",
+          "title": "La tirallonga",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 384,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-via-lliure-la/id918420258"
+        },
+        {
+          "id": "arriba-la-trinca",
+          "type": "SECTION",
+          "title": "Arriba la Trinca",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "musica",
+          "type": "SECTION",
+          "title": "Música",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 333,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/via-lliure-musica/id1042564489"
+        },
+        {
+          "id": "trio-pantalles",
+          "type": "SECTION",
+          "title": "Pantalles",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 336,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/via-lliure-trio-pantalles/id1042213367"
+        },
+        {
+          "id": "90dab07f-4847-49a2-a05a-10336c24ac41",
+          "type": "SECTION",
+          "title": "Tertúlia de patates",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 381,
+          "itunesUrl": null
+        },
+        {
+          "id": "tu-a-la-teva",
+          "type": "SECTION",
+          "title": "Tu a la teva",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "un-mati-de-diumenge-a",
+          "type": "SECTION",
+          "title": "Un mati de diumenge a",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": 293,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-via-lliure-mati/id918419419?mt=2"
+        },
+        {
+          "id": "xavier-theros",
+          "type": "SECTION",
+          "title": "Xavier Theros",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SOCIETY_CULTURE"
+    },
+    {
+      "id": "amb-molt-de-gust",
+      "methodeSectionId": "/programes/amb-molt-de-gust",
+      "title": "Amb molt de gust",
+      "subtitle": "amb Emma Aixalà",
+      "description": "Menjar i beure. Ens encanta. I cada cop ho fem de manera més conscient i saludable. Ens agrada descobrir ingredients que no sabíem que existien, aliments que no sabíem com cuinar, productes amb un grapat de varietats i propietats. Parlem amb productors, restauradors i nutricionistes. Amb experts i col·laboradors, demostrem que la gastronomia té bona salut al carrer, als llibres, a la música, al cinema, a les xarxes socials i a la televisió.",
+      "schedule": "Dissabtes, de 15 a 16 h",
+      "socialNetworks": {
+        "facebook": "https://www.facebook.com/gustrac1",
+        "twitter": "https://www.twitter.com/gustrac1"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/amb-molt-de-gust.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/amb-molt-de-gust.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/amb-molt-de-gust.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/amb-molt-de-gust.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/amb-molt-de-gust.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/amb-molt-de-gust.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/amb-molt-de-gust.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.org/programes/amb-molt-de-gust/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/amb-molt-de-gust/id1040583080"
+        },
+        {
+          "id": "doble-racio",
+          "type": "SECTION",
+          "title": "Doble ració",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "avui-mengem",
+          "type": "SECTION",
+          "title": "El projecte",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "el-xef-ambmoltdegustero",
+          "type": "SECTION",
+          "title": "El xef 'ambmoltdegustero'",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SOCIETY_CULTURE"
+    },
+    {
+      "id": "misteris",
+      "methodeSectionId": "/programes/misteris",
+      "title": "Misteris",
+      "subtitle": "amb Sebastià d'Arbó",
+      "description": "Un viatge nocturn al món de la misteris, les teràpies alternatives i els oracles amb el prestigiós professor Sebastià d’Arbó. El programa Misteris amb Sebastià d’Arbó, és un viatge nocturn per les ones de dues hores de durada pel món desconegut que ens envolta i del que formem part, donant a conèixer els aspectes antropològics màgics de les civilitzacions, també els enigmes i els fets misteriosos existents al món, i les llegendes i tradicions del realisme fantàstic que conformen altres mons, els quals no per ser desconeguts deixen de ser menys reals i ells formen part de la nostra existència conformant el nostre teixit cultural.l. El programa té tres vessants de la comunicació: informació, divulgació i serveis. D’una banda informar dels misteris existents al món i els fenòmens extraordinaris que es produeixen, tractant de donar una explicació plausible als fets aparentment inexplicables, així com també donar a conèixer les potencialitats ocultes de l’ésser humà. D’altra banda divulgar els nous mètodes de desenvolupament personal, autoajut i teràpies alternatives pròpies de la nova era i que conforma l’espai humà. I finalment prestar el servei de consell humanístic a l’audiència, mitjançant els consultoris d’arts i mètodes endevinatoris que mol sovint demana i ajuden a l’ésser humà. Certament hi ha altres mons desconeguts, però són aquí entre nosaltres, concretament a la sintonia de RAC1 a les matinades dels caps de setmana i de la mà de Sebastià d’Arbó, el pioner d’aquestes temàtiques en els mitjans de comunicació.",
+      "schedule": "Dissabtes i diumenges, d’1 a 3 h",
+      "socialNetworks": {},
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/misteris.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/misteris.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/misteris.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/misteris.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/misteris.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/misteris.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/misteris.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.org/programes/misteris/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-misteris/id394903565"
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SOCIETY_CULTURE"
+    },
+    {
+      "id": "el-barca-juga-a-rac1",
+      "methodeSectionId": "/programes/el-barca-juga-a-rac1",
+      "title": "El Barça juga a RAC1",
+      "subtitle": "amb Joan Maria Pou",
+      "description": "Retransmissió de tots els partits del Barça en totes les competicions: Lliga, Lliga de Campions, Supercopes, etc., amb l’equip d’@EsportsRAC1",
+      "schedule": null,
+      "socialNetworks": {
+        "facebook": "https://www.facebook.com/fcbrac1",
+        "twitter": "https://www.twitter.com/fcbrac1"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/el-barca-juga-a-rac1.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/el-barca-juga-a-rac1.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/el-barca-juga-a-rac1.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/el-barca-juga-a-rac1.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/el-barca-juga-a-rac1.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/el-barca-juga-a-rac1.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/el-barca-juga-a-rac1.jpg"
+      },
+      "imageVersion": 7,
+      "email": null,
+      "url": "http://www.rac1.org/programes/el-barca-juga-a-rac1/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/el-bar%C3%A7a-juga-a-rac1-lhora-a-hora/id1287042370?mt=2"
+        },
+        {
+          "id": "cara-d-de-david-caraben",
+          "type": "SECTION",
+          "title": "Cara B de David Carabén",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": ""
+        },
+        {
+          "id": "gols",
+          "type": "SECTION",
+          "title": "Gols",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "1-per-1",
+          "type": "SECTION",
+          "title": "L'1x1",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "tan-se-val-don-venim",
+          "type": "SECTION",
+          "title": "Tan se val d'on venim",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SPORTS_RECREATION"
+    },
+    {
+      "id": "lespanyol-juga-a-rac1",
+      "methodeSectionId": "/programes/lespanyol-juga-a-rac1",
+      "title": "L'Espanyol juga a RAC1",
+      "subtitle": "amb Eduard de Batlle",
+      "description": "Retransmissió dels partits de Lliga de l’Espanyol amb l’equip d’@RCDERAC1: Jaume Mullor, Xavi Puig i Gerard Costafreda i els comentaris de Dani Solsona.",
+      "schedule": null,
+      "socialNetworks": {
+        "twitter": "https://twitter.com/rcderac1"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/lespanyol-juga-a-rac1.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/lespanyol-juga-a-rac1.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/lespanyol-juga-a-rac1.png",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/lespanyol-juga-a-rac1.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/lespanyol-juga-a-rac1.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/lespanyol-juga-a-rac1.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/lespanyol-juga-a-rac1.png"
+      },
+      "imageVersion": 1,
+      "email": null,
+      "url": "http://www.rac1.org/programes/lespanyol-juga-a-rac1/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-l-espanyol-juga/id445607591"
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SPORTS_RECREATION"
+    },
+    {
+      "id": "el-girona-juga-a-rac1",
+      "methodeSectionId": "/esports-rac1",
+      "title": "El Girona juga a RAC1",
+      "subtitle": "amb Miquel Agut",
+      "description": null,
+      "schedule": null,
+      "socialNetworks": {},
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/el-girona-juga-a-rac1.png",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/el-girona-juga-a-rac1.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/el-girona-juga-a-rac1.png"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": null,
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Hora a Hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        },
+        {
+          "id": "GENERIC",
+          "type": "GENERIC",
+          "title": "Genèrica",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": null,
+      "itunesCategory": "SPORTS_RECREATION"
+    },
+    {
+      "id": "superdiumenge",
+      "methodeSectionId": "/programes/superdiumenge",
+      "title": "Superdiumenge",
+      "subtitle": "amb Xavi Puig",
+      "description": "L'esport en directe. Presència als principals esdeveniments amb especial interès pels equips i esportistes catalans. Futbol, bàsquet, handbol, hoquei patins, waterpolo, natació, atletisme, rugbi i el que calgui. Amb la col·laboració d’Álvaro Ademà, Xevi Masachs, Guillem Freixa, Esteve Giralt i Gerard Autet.",
+      "schedule": "Diumenges, de 16 a 23 h",
+      "socialNetworks": {},
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/superdiumenge.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/superdiumenge.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/superdiumenge.png",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/superdiumenge.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/default.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/default.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/superdiumenge.png"
+      },
+      "imageVersion": 1,
+      "email": null,
+      "url": "http://www.rac1.org/programes/superdiumenge/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/superdiumenge/id570629755"
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SPORTS_RECREATION"
+    },
+    {
+      "id": "rac1ncentrat",
+      "methodeSectionId": "/programes/rac1ncentrat",
+      "title": "RAC1ncentrat",
+      "subtitle": "amb Jordi Beltran",
+      "description": "De durada variable, els dissabtes i diumenges a la tarda, Jordi Beltran i els equips tècnics de RAC1 recuperen continguts destacables dels programes de RAC1, una recopilació del millor, una mena de greatest hits de programes que, com El món a RAC1 o el Versió RAC1, no tenen espai de redifusió durant la setmana. Tot allò que potser no heu pogut escoltar els dies feiners. ",
+      "schedule": null,
+      "socialNetworks": {},
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/rac1ncentrat.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/rac1ncentrat.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/rac1ncentrat.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/rac1ncentrat.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/rac1ncentrat.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/rac1ncentrat.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/rac1ncentrat.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "NEWS_POLITICS"
+    },
+    {
+      "id": "ultraesports",
+      "methodeSectionId": "/programes/ultraesports",
+      "title": "Ultraesports",
+      "subtitle": "amb Raül Llimòs",
+      "description": "Després d'una primera temporada exitosa, Ultraesports segueix complementant l’oferta esportiva de RAC1. Repassem l’actualitat de tota mena d’esports a l’aire lliure, com les curses de muntanya (ultra trails), el running, BTT, la natació en aigües obertes, el triatló, l’alpinisme, l’escalada, el senderisme i els esports d’aventura. Amb Gemma Montero a la producció i Robert Marcé a la redacció. Els col·laboradors habituals són Ferran Latorre, Marc Cornet, Cinto Ajram i Albert Jorquera. I s’hi incorpora Valentí Sanjuan, popular blogger i youtuber ultraesportista.",
+      "schedule": "Diumenges, de 15 a 16 h",
+      "socialNetworks": {
+        "twitter": "https://www.twitter.com/ultraesports_"
+      },
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/ultraesports.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/ultraesports.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/ultraesports.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/ultraesports.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/ultraesports.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/ultraesports.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/ultraesports.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.org/programes/ultraesports/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Programa sencer",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/rac1-podcast-ultraesports/id916684689"
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SPORTS_RECREATION"
+    },
+    {
+      "id": "no-hi-som-per-festes",
+      "methodeSectionId": "/programes/no-hi-som-per-festes",
+      "title": "No hi som per festes",
+      "subtitle": "amb Jordi Beltran",
+      "description": "No hi som per festes són dues hores eclèctiques, amb moltes preguntes i bastantes respostes; un programa de Jordi Beltran, made in RAC1, amb Vanessa Pellisa, Noemí Polls i David Serra. Aquest estiu, Sergi Pàmies es fixarà en els mitjans de comunicació. Amb Quim Monzó plantejarem què cal o no. Tertuliejarem. Viurem la fundació d’una parella d’encàrrec amb Pau Torres i Elena Martín. Intentarem planificar vacances a Panamà, Andorra o les illes Caiman. David Martos ens portarà a treballar i viure a Tres Cantos, a Madrid. Parlarem de veus, personatges secundaris, carrers amb noms de dona, estadístiques i molt més. No hi som per festes, dues hores nocturnes de RAC1, comunicant estiu a tutti pleni.",
+      "schedule": null,
+      "socialNetworks": {},
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/no-hi-som-per-festes.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/no-hi-som-per-festes.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/no-hi-som-per-festes.jpg",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/no-hi-som-per-festes.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/no-hi-som-per-festes.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/no-hi-som-per-festes.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/no-hi-som-per-festes.jpg"
+      },
+      "imageVersion": 2,
+      "email": null,
+      "url": "http://www.rac1.org/programes/no-hi-som-per-festes/",
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Talls horaris",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": "https://itunes.apple.com/es/podcast/no-hi-som-per-festes/id414451763?mt=2"
+        },
+        {
+          "id": "GENERIC",
+          "type": "GENERIC",
+          "title": "Genèrica",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": 14,
+      "itunesCategory": "SOCIETY_CULTURE"
+    },
+    {
+      "id": "info-rac1",
+      "methodeSectionId": "/info-rac1",
+      "title": "Info RAC1",
+      "subtitle": "amb Albert Om",
+      "description": null,
+      "schedule": "",
+      "socialNetworks": {},
+      "images": {
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/info-rac1.png",
+        "itunes": "https://api.audioteca.rac1.cat/rsc/img/itunes/default.jpg",
+        "share": "https://api.audioteca.rac1.cat/rsc/img/share/info-rac1.png",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/info-rac1.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/default.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/default.png",
+        "podcast": "https://api.audioteca.rac1.cat/rsc/img/podcast/info-rac1.png"
+      },
+      "imageVersion": 1,
+      "email": null,
+      "url": null,
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "L'hora a hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": null,
+      "itunesCategory": "NEWS_POLITICS"
+    },
+    {
+      "id": "72cf358c-a845-41fc-be69-3f4558ace076",
+      "methodeSectionId": "/info-rac1",
+      "title": "Castells a RAC1",
+      "subtitle": "amb Xavi Aymerich",
+      "description": "Concurs de Tarragona",
+      "schedule": "Diumenge de 12 a 16 h",
+      "socialNetworks": {},
+      "images": {
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/72cf358c-a845-41fc-be69-3f4558ace076.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/72cf358c-a845-41fc-be69-3f4558ace076.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/72cf358c-a845-41fc-be69-3f4558ace076.png",
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/72cf358c-a845-41fc-be69-3f4558ace076.png"
+      },
+      "imageVersion": 1,
+      "email": null,
+      "url": null,
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Hora a Hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": null,
+      "itunesCategory": "NEWS_POLITICS"
+    },
+    {
+      "id": "superclassic",
+      "methodeSectionId": "/univers-rac1/",
+      "title": "Fórmula 1",
+      "subtitle": "Fórmula 1",
+      "description": "Fórmula 1",
+      "schedule": null,
+      "socialNetworks": {},
+      "images": {
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/superclassic.jpg",
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/superclassic.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/superclassic.png",
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/superclassic.png"
+      },
+      "imageVersion": 1,
+      "email": null,
+      "url": null,
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Hora a Hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": null,
+      "itunesCategory": "NEWS_POLITICS"
+    },
+    {
+      "id": "esports-rac1",
+      "methodeSectionId": "/esports-rac1",
+      "title": "Esports RAC1",
+      "subtitle": "",
+      "description": null,
+      "schedule": null,
+      "socialNetworks": {},
+      "images": {
+        "person": "https://api.audioteca.rac1.cat/rsc/img/person/esports-rac1.png",
+        "person-small": "https://api.audioteca.rac1.cat/rsc/img/person-small/esports-rac1.png",
+        "program": "https://api.audioteca.rac1.cat/rsc/img/program/esports-rac1.jpg",
+        "app": "https://api.audioteca.rac1.cat/rsc/img/app/esports-rac1.png"
+      },
+      "imageVersion": 1,
+      "email": null,
+      "url": null,
+      "active": true,
+      "hidden": false,
+      "sections": [
+        {
+          "id": "HOUR",
+          "type": "HOUR",
+          "title": "Hora a Hora",
+          "program": null,
+          "active": true,
+          "hidden": false,
+          "adsId": null,
+          "itunesUrl": null
+        }
+      ],
+      "pillAdsId": null,
+      "itunesCategory": "NEWS_POLITICS"
+    }
+  ],
+  "success": true,
+  "meta": null
+}
