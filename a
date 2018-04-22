@@ -1,0 +1,51 @@
+[
+
+  {
+    "wav": "Hello.mp3",
+    "nameAR": "مرحبًا",
+    "nameRS": "Привет",
+    "nameEN": ""
+  },
+  {
+    "wav": "Goodmorning.mp3",
+    "nameAR": "صباح الخير",
+    "nameRS": "Доброе утро",
+    "nameEN": ""
+  },
+  {
+    "wav": "Goodafternoon.mp3",
+    "nameAR": "تحية (تُقال بعد الظهر)",
+    "nameRS": "Добрый день",
+    "nameEN": ""
+  },
+  {
+    "wav": "Goodevening.mp3",
+    "nameAR": "مساء الخير",
+    "nameRS": "Добрый вечер",
+    "nameEN": ""
+  },
+  {
+    "wav": "Goodnight.mp3",
+    "nameAR": "تصبح على خير",
+    "nameRS": "Спокойной ночи",
+    "nameEN": ""
+  },
+  {
+    "wav": "Howareyou.mp3",
+    "nameAR": "كيف حالك؟",
+    "nameRS": "Как поживаешь?",
+    "nameEN": ""
+  },
+  {
+    "wav": "Finethankyou.mp3",
+    "nameAR": "بخير، شكرًا لك.",
+    "nameRS": "Спасибо, хорошо",
+    "nameEN": ""
+  },
+  {
+    "wav": "Andyou.mp3",
+    "nameAR": "وأنت؟",
+    "nameRS": "А ты?",
+    "nameEN": ""
+  }
+]
