@@ -2,61 +2,73 @@
   {
     "textJ": "المفردات الاساسية",
     "urlJ": "https://raw.githubusercontent.com/anasong/v/master/a",
-    "sitJ": "sss"
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "http://zoozoo.hu/wp-content/uploads/2017/05/kérdőjel.jpg"
   },
   {
-    "textJ": "العلاقات-الأسرية",
+    "textJ": "العلاقات الأسرية",
     "urlJ": "https://raw.githubusercontent.com/anasong/v/master/b",
-    "sitJ": "sss"
-  },
-  {
-    "textJ": "حبيب و حبيبة",
-    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/t",
-    "sitJ": "sss"
-  },
-  {
-    "textJ": "هل تتكلم الإنجليزية؟",
-    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/c",
-    "sitJ": "sss"
-  },
-  {
-    "textJ": "هل تفهم؟",
-    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/d",
-    "sitJ": "sss"
-  },
-  {
-    "textJ": "الأسئلة القصيرة",
-    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/e",
-    "sitJ": "sss"
-  },
-  {
-    "textJ": "شكرًا لكم",
-    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/f",
-    "sitJ": "sss"
-  },
-  {
-    "textJ": "مثال و التعابير",
-    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/g",
-    "sitJ": "sss"
-  },
-  {
-    "textJ": "الأرقام و الالوان",
-    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/h",
-    "sitJ": "sss"
-  },
-  {
-    "textJ": "أين و هنا",
-    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/k",
-    "sitJ": "sss"
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "http://www.arrajol.com/sites/default/files/styles/800x530/public/08/01/2015/237.jpg"
   },
   {
     "textJ": "أيام و الساعة",
     "urlJ": "https://raw.githubusercontent.com/anasong/v/master/l",
-    "sitJ": "sss"
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "https://t1.hespress.com/files/2017/03/+_Hour_116739249.jpg"
   },
   {
     "textJ": "بنات وأولاد",
     "urlJ": "https://raw.githubusercontent.com/anasong/v/master/t",
-    "sitJ": "sss"
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "https://www.nmisr.com/wp-content/uploads/2016/03/اسماء-بنات-واولاد-تبدأ-بحرف-الجيم.jpeg"
+  },
+  {
+    "textJ": "حبيب و حبيبة",
+    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/t",
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "https://www.caravanalive.com/wp-content/uploads/2018/02/man-hugging-woman.jpg"
+  },
+  {
+    "textJ": "هل تتكلم الإنجليزية؟",
+    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/c",
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "https://www.lamhaat.com/upload/01-2018/article/english.jpg"
+  },
+  {
+    "textJ": "هل تفهم؟",
+    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/d",
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "http://drbigodes.pt/wp-content/uploads/2016/02/treinando-um-cao.jpg"
+  },
+  {
+    "textJ": "الأسئلة القصيرة",
+    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/e",
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "https://thumbs.dreamstime.com/b/3d-white-people-question-mark-27709668.jpg"
+  },
+  {
+    "textJ": "شكرًا لكم",
+    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/f",
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "https://d.top4top.net/p_84347nrn1.jpg"
+  },
+  {
+    "textJ": "مثال و التعابير",
+    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/g",
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "http://www.ika.dk/uploads/pics/Ledelse.jpg"
+  },
+  {
+    "textJ": "الأرقام و الالوان",
+    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/h",
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "https://i.ytimg.com/vi/78CKL6PLors/maxresdefault.jpg"
+  },
+  {
+    "textJ": "أين و هنا",
+    "urlJ": "https://raw.githubusercontent.com/anasong/v/master/k",
+    "sitJ": "com.inderjs.olaplaystudio",
+    "image": "https://i.pinimg.com/originals/b2/0d/a0/b20da08cbc6e91ffe5f88c36e5d4ba13.jpg"
   }
 ]
